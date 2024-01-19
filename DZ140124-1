@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>William Shakespeare play-tragedy</title>
+    <style>
+        .center-text {
+            text-align: center; /* Центрируем текст по горизонтали */
+        }
+        .custom-text {
+            font-size: 24px; /* Задаем размер шрифта, например, 24 пикселей */
+            color: #0066cc; /* Другой цвет текста, например, синий */
+            font-weight: bold; /* Задаем жирность шрифта, например, жирный (bold) */
+        }
+        .another-custom-text {
+            font-size: 16px; /* Другой размер шрифта, например, 18 пикселей */
+            font-weight: normal; /* Обычная жирность */
+            color: #92a1b1; /* Другой цвет текста, например, серый */
+            font-weight: bold; /* Задаем жирность шрифта, например, жирный (bold) */
+            margin-bottom: 25px; /* Выберите желаемый размер отступа стандарт 10рх*/
+        }
+        .yet-another-custom-text {
+            font-size: 14px;
+            font-weight: normal;
+            margin-bottom: 25px; /* Выберите желаемый размер отступа */
+            line-height: 0.6; /* Значение по умолчанию или уменьшите значение, чтобы увеличить плотность строк */
+        }
+        .italic-text {
+            font-style: italic;
+            font-size: 12px; /* Добавлен размер шрифта */
+        }
+    </style>
+</head>
+<body>
+    <div class="center-text">
+        <p class="custom-text" >Romeo and Juliet</p>
+    </div>
+
+    <div class="another-custom-text">
+        <p>ACT 1</p>
+        <p>PROLOGUE</p>
+    </div>
+
+    <div class="yet-another-custom-text">
+        <p>Two households, both alike in dignity,</p>
+        <p>In fair Verona, where we lay our scene,</p>
+        <p>From ancient grudge break to new mutiny,</p>
+        <p>Where civil blood makes civil hands unclean.</p>
+        <p>From forth the fatal loins of these two foes</p>
+        <p>A pair of star-cross'd lovers take their life;</p>
+        <p>Whose misadventured piteous overthrows</p>
+        <p>Do with their death bury their parents' strife.</p>
+        <p>The fearful passage of their death-mark'd love,</p>
+        <p>And the continuance of their parents' rage,</p>
+        <p>Which, but their children's end, nought could remove,</p>
+        <p>Is now the two hours' traffic of our stage;</p>
+        <p>The which if you with patient ears attend,</p>
+        <p>What here shall miss, our toil shall strive to mend.</p>
+    </div>
+    
+    <div class="another-custom-text">
+        <p>SCENE I. Verona. A public place.</p>
+    </div>
+    
+    <div class="yet-another-custom-text">
+        <p class="italic-text">Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and bucklers</p>
+    </div>
+
+    <div class="another-custom-text">
+        <p>SAMPSON</p>
+    </div>
+
+    <div class="yet-another-custom-text">
+        <p>Gregory, o' my word, we'll not carry coals.</p>
+    </div>
+
+    <div class="another-custom-text">
+        <p>GREGORY</p>
+    </div>
+
+    <div class="yet-another-custom-text">
+        <p>No, for then we should be colliers.</p>
+    </div>
+</body>
